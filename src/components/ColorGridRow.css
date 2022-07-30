@@ -1,0 +1,5 @@
+.grid-row{
+    width: 750px;
+    height: 5px;
+    display: flex;
+}
